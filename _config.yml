@@ -4,7 +4,7 @@ gems:
 
 # Exclude these files from your production _site
 permalink: /:title/
-name: Your Name
+name: Android
 sass:
   style: :expanded # You might prefer to minify using :compressed
 
@@ -19,7 +19,7 @@ kramdown:
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
 version: v1.2.0
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://cnet4.cbsistatic.com/img/QJcTT2ab-sYWwOGrxJc0MXSt3UI=/2011/10/27/a66dfbb7-fdc7-11e2-8c7c-d4ae52e62bcc/android-wallpaper5_2560x1600_1.jpg
 google_analytics:
 exclude:
 - Gemfile
@@ -44,4 +44,4 @@ footer-links:
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
-description: Web Developer from Somewhere
+description: Green Comestibles
